@@ -1,0 +1,9 @@
+# GhostBot - AI Mobile QA & UX Auditor Agent
+# Python dependencies with strict versioning for stability
+
+openai>=1.3.0
+anthropic>=0.18.0
+pillow>=10.0.0
+python-dotenv>=1.0.0
+tenacity>=8.2.0
+rich>=13.0.0
